@@ -1,4 +1,4 @@
-# ** ATS_RE604_mnist-Classification**
+# **ATS_RE604_mnist-Classification**
 # **4222201056 Rikardo Harefa**
 
  Classify digit in Extended MNIST
